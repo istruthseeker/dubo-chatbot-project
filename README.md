@@ -1,7 +1,10 @@
 # DUBO
 <a href="https://heroku.com/deploy" target="_blank"><img src="https://www.herokucdn.com/deploy/button.svg"></a>
 
-This project was made in 2018 as a question-answer based chatbot, serve University of Economics, Danang, Vietnam.
-The method was used in the code is TF-IDF and focused on handling Vietnamese with example of dataset given in the code.
+**Project Overview**
 
-To install please follow the requirements.
+This project, developed in 2018, is a question-and-answer based chatbot designed to serve the University of Economics in Danang, Vietnam. It employs the TF-IDF method and primarily focuses on processing the Vietnamese language. Examples of datasets are provided within the code to illustrate its application.
+
+**Installation Instructions**
+
+To install the project, please adhere to the provided requirements. Detailed instructions and necessary dependencies are listed to facilitate a smooth setup and execution of the chatbot.
